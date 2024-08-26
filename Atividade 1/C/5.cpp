@@ -1,0 +1,1 @@
+// qualquer alteração feita no parâmetro dentro da função afeta o valor original.

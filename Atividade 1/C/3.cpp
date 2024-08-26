@@ -1,0 +1,1 @@
+// Os tipos de funçao esta relacionado com oque ela retornara, os tipos são: int, float, bool, char, string... caso a função retorne um valor inteiro a funçao deve ser declarada como int (nome da função)(parâmetros);

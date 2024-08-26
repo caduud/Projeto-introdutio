@@ -1,0 +1,1 @@
+// Parâmetros são as variaveis criadas apenas na hora que a função é chamada e deixa de existir quando a função for encerrada
