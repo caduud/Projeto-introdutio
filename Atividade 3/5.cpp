@@ -1,0 +1,1 @@
+// 5 é falsa pois pti tem o valor do endereço de memória da variavel i
