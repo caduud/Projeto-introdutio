@@ -1,0 +1,1 @@
+//Ele retorna a quantidade de divisores que existem para o número que foi dado, caso seja 4 a variável Q já inicia com 2 pois ele é divisel por 1 e ele mesmo e recebe mais 1 quando 4%2 == 0 sendo assim o 4 tendo 3 divisores

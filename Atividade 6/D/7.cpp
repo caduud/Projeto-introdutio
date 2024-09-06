@@ -1,0 +1,1 @@
+//Ele verifica se o número de 1000 - 9999, o resultado dele divido por 100 + o resto dele por 100 ao quadrado da ele mesmo, por exemplo 2025, o resultado divido por 100 = 20, e o resto por 100 = 25, 20 + 25 = 45 e 45 * 45 é igual a 2025

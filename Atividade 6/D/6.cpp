@@ -1,0 +1,1 @@
+//Ele realiza a soma dos elementos que estão entre o b e o c, incluindo b e c e que são diviseis por a, por exemplo 1 70 80, ele realizara a soma de 70 até 80 pois todos no intervalo realizam uma divisão exata dando 825 o resultado     
